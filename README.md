@@ -32,13 +32,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jielosc&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jielosc&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="languages graph" />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/jielosc/jielosc/output/snake.svg" alt="Snake animation" />
 
 ###
