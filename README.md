@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Multimodal Large Language Models<br>🎯 Goals: Building robust Multi-modal Agents that can "see, hear, and reason"<br>🎲 Fun fact: I spend 5 hours configuring my Zsh theme just to write 5 minutes of code.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning VLA Models<br>🎯 Goals: Building robust Multi-modal Agents that can "see, hear, and reason"<br>🎲 Fun fact: I spend 5 hours configuring my Zsh theme just to write 5 minutes of code.</p>
 
 ###
 
@@ -30,9 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/jielosc/jielosc/output/snake.svg" alt="Snake animation" />
 
 ###
 
