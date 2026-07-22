@@ -12,3 +12,4 @@
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning VLA Models<br>🎲 Fun fact: I spend 5 hours configuring my Zsh theme just to write 5 minutes of code.</p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jielosc)](https://github.com/stats-organization/github-stats-extended)
